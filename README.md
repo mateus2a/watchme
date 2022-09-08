@@ -39,3 +39,27 @@ $ npm install
 # Run the application
 $ npm start
 ```
+
+> ⚠️ The server will start at port:3000 - Access <http://localhost:3000>
+
+## 🛠️ Technologies used
+
+The following tools were used in the construction of the project:
+
+- [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
+- [React](https://pt-br.reactjs.org/docs/getting-started.html)
+
+## ✒️ Authors
+
+Here are all the contributors to the project.
+
+- **Mateus Alencar** - _Initial Work, Documentation_ - [mateus2a](https://github.com/mateus2a)
+
+## 📄 License
+
+This project is under the MIT license - see the [LICENSE.md](https://github.com/mateus2a/watchme/blob/main/LICENSE) file for details.
+
+---
+
+By [Mateus Alencar](https://github.com/mateus2a)
