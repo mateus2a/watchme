@@ -21,3 +21,21 @@ The following programs are required to use and modify the project.
 <p align="center">
   <img src="./public/preview.gif" alt="WatchMe">
 </p>
+
+### 🔧 Instalation
+
+A series of step-by-step examples that tell you what you must do to get a development environment running.
+
+```
+# Clone this repository
+$ git clone https://github.com/mateus2a/watchme.git
+
+# Access the project folder in the terminal/cmd
+$ cd watchme
+
+# Install dependencies
+$ npm install
+
+# Run the application
+$ npm start
+```
