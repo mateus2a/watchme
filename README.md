@@ -15,3 +15,9 @@ The following programs are required to use and modify the project.
 - [NodeJs](https://nodejs.org/en/)
 
 - [NPM](https://nodejs.org/en/)
+
+## 👀 Preview
+
+<p align="center">
+  <img src="./public/preview.gif" alt="WatchMe">
+</p>
